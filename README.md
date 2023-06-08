@@ -1,7 +1,7 @@
 ## Olá, me chamo Ian Marcos
 
 
-- 🔭 I’m don,t currently working on 
+- 🔭 I’m don,t currently working
 - 🌱 I'm starting now in the area of programming 
 - 😄 Pronoums: ele/dele
 <div>
