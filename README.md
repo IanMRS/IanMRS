@@ -9,4 +9,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMRS&theme=blue-green"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IanMRS/IanMRS/blob/output/github-contribution-grid-snake.svg)
