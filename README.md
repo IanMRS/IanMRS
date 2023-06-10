@@ -8,3 +8,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IanMRS&theme=blue-green"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMRS&theme=blue-green"/>
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
